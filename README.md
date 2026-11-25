@@ -63,7 +63,7 @@ Classic honeypots help — but they're static, so a skilled attacker fingerprint
 A live pipeline runs from intrusion to decision — and loops back:
 
 <p align="center">
-  <img src="docs/img/architecture.png" width="100%" alt="Mirage architecture">
+  <img src="architecture.png" width="100%" alt="Mirage architecture">
 </p>
 
 <details>
